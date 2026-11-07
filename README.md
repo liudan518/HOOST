@@ -1,5 +1,19 @@
 # HOOST · 五语言科研项目网站 / Multilingual research project page
 
+## 公开访问 / Public access
+
+- **科研主页 / Research website:** [https://liudan518.github.io/HOOST/](https://liudan518.github.io/HOOST/)
+- **论文 PDF 全文 / Full-text PDF（约 10.6 MB）:** [https://liudan518.github.io/HOOST/HOOST.pdf](https://liudan518.github.io/HOOST/HOOST.pdf)
+- **BibTeX 引文 / Citation download:** [https://liudan518.github.io/HOOST/S0950705124007767.bib](https://liudan518.github.io/HOOST/S0950705124007767.bib)
+- **DOI 原文 / Publisher DOI:** [https://doi.org/10.1016/j.knosys.2024.112142](https://doi.org/10.1016/j.knosys.2024.112142)
+- **部署记录 / Deployment history:** [GitHub Actions](https://github.com/liudan518/HOOST/actions)
+
+网页、论文 PDF 与 BibTeX 均可公开访问，无需登录。
+The website, paper PDF and BibTeX are publicly accessible without signing in.
+
+本项目通过 GitHub Pages 发布；更新 `main` 分支后会自动构建并部署。
+The site is hosted on GitHub Pages and redeploys automatically when `main` is updated.
+
 ## Quick start / 使用方法
 
 1. 解压 ZIP 并保留整个 `HOOST_Modern_Multilingual_Website` 目录。
